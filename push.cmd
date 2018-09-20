@@ -12,4 +12,4 @@ git push -f git@github.com:320wuyanzu/PG-PD.git master:gh-pages
 cd ../../../
 git add *
 git commit -m"先来个考纲"
-git push -f git@github.com:320wuyanzu/PG-PD.git collapse:collapse
+git push -f git@github.com:320wuyanzu/PG-PD.git master:master
