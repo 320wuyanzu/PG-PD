@@ -5,7 +5,13 @@ module.exports = {
         lastUpdated: '最后一次编辑',
         nav: [
             { text: 'Personal Homepage', link: 'https://320wuyanzu.github.io' },
-            { text: 'Home', link: '/' },
+            { text: '考纲', link: '/' },
+            { text: '数据类型及其操作', link: '//' },
+            { text: '三种控制结构', link: '//' },
+            { text: '输入输出实现', link: '//' },
+            { text: '函数', link: '//' },
+            { text: '算法描述方法', link: '//' },
+            { text: '常用算法示例', link: '//' }
         ],
         sidebarDepth: 2,
         //sidebar: sidebar_group()
